@@ -10,6 +10,7 @@ RUN npm ci
 # Copy source and build TypeScript
 COPY . .
 RUN npm run build
+RUN npx playwright install chromium
 
 ENV PORT=3005
 ENV NODE_ENV=production
