@@ -234,11 +234,22 @@ server.on('upgrade', (request, socket, head) => {
 
 wss.on('connection', async (ws: WebSocket, _req: any, sessionId: string) => {
   let session: any;
-  try {
-    session = await sessionManager.get(sessionId);
-  } catch {
-    ws.close(1008, 'Session not found');
-    return;
+  for (let i = 0; i < 10; i++) {
+    try {
+      session = await sessionManager.get(sessionId);
+      if (session) break;
+    } catch {}
+    await new Promise((r) => setTimeout(r, 400));
+  }
+
+  if (!session) {
+    try {
+      await sessionManager.create(sessionId);
+      session = await sessionManager.get(sessionId);
+    } catch {
+      ws.close(1008, 'Session not found');
+      return;
+    }
   }
 
   const stop = await startScreencast(session.page, (frame) => {
