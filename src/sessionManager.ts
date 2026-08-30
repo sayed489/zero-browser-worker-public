@@ -42,13 +42,10 @@ export class SessionManager {
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage', // critical for Render/Docker/low-memory environments
-        '--disable-gpu',
-        '--disable-background-networking',
-        '--disable-default-apps',
-        '--disable-extensions',
-        '--disable-sync',
-        '--no-first-run',
+        '--disable-dev-shm-usage',
+        '--disable-blink-features=AutomationControlled',
+        '--window-size=1280,800',
+        '--hide-scrollbars',
         '--mute-audio',
       ],
     });

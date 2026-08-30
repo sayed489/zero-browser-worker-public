@@ -24,6 +24,7 @@ export async function executeAction(
       case 'navigate': {
         const targetUrl = act.url;
         await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+        await page.waitForTimeout(1000);
         await page.waitForLoadState('networkidle', { timeout: 3000 }).catch(() => {});
         const snapshot = await takeSnapshot(page);
         return { ok: true, snapshot };
