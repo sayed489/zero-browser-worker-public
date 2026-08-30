@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "_digiadmin20241_session",
+      "value": "CsnqZbuCvoSLPMS%2FOrPdkzeZbbh75eYAJzoWzjctC5XwWPOLmz6sE7BfeOvEUgmU47oCnnklv9riqWeccWx1tEvCon3e%2BzODkPGMKt4PkQI4Wlip%2FpvLOitbbGnMw%2BOwKO7YHHFAhQYu4ARXJ1hzXPgqBB7fx%2Fb32d%2FpEcW5zbY8LujjxDScyMUc%2BVR37BYnKU0oLEs%2F%2BOky1LElhSLhzpA1KBUpKin2evQZmSVd1hMPeuYqDQT%2Ff2EEIUNTBKhSlINOFVIpInCusaDvAMGO%2Fco37aFbbvdiLV6aFxJ4gg%3D%3D--tkvu6l9mQvR79QQP--hTxzF3VrVIuRj%2BAXZqDstQ%3D%3D",
+      "domain": "www.for.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.709945800.1788067657",
+      "domain": ".for.com",
+      "path": "/",
+      "expires": 1788154057,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1254229214.1788067657",
+      "domain": ".for.com",
+      "path": "/",
+      "expires": 1822627657.220219,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_16NRM0H1NX",
+      "value": "GS2.1.s1788067657$o1$g0$t1788067657$j60$l0$h0",
+      "domain": ".for.com",
+      "path": "/",
+      "expires": 1822627657.245488,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

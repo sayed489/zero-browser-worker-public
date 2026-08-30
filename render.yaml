@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: zero-browser-worker
+    env: docker
+    region: oregon
+    dockerfilePath: Dockerfile
+    plan: free

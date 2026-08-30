@@ -1,0 +1,67 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwgvRrl06VerftMa1v0ETqcVUTQ8giqepALFv4n52fbjeaZUhmMnyacob2KEXudn7zMu8PLpQaHSQydYlrM",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1803625722.423974,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803625702.029317,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEavXFgQ2GHh1jWa3en_PDC0WQlzmshk2tlCQNcZGcHt4oLx4u7YLBQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803625702.029365,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=rpzcuIXJhUUo2Q--CW0jsIr1tG3OCS1ZtIO_57AN1RYtMbecS7LvuFL9GVM56HnWaPohjR_DcmvrI3lpdJuSermOrWyQD0OywTauG4SeIN5l0vo-_pXTNaEhW1tFO2u6MP7KPcK805VIh5I-_TjvdC2pvXzf2xeQkWTS4nGhreZAtZda87RWhjkeEa4kh6m4DQM8aXL_t0BlBx-rXf9tv0kSCpLPmriYGBvFJfyFU0owr1iNiysIXOHDrEWtf9TK",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803884902.052387,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"h4 ead\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"vivo t5 5g specifications\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"libra horoscope today\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"madison flame california\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"blood moon total lunar eclipse tonight\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"mahindra xev 9s baas\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"samsung galaxy galaxy s27 ultra\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"karunya kerala lottery results\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"chinchpokli cha chintamani live\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"fabrizio romano arsenal transfer news\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}]],\"1\":{\"av\":\"15143829097531849122\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        },
+        {
+          "name": "rc::a",
+          "value": "N3YwbXRzMW5uODh5aA=="
+        },
+        {
+          "name": "sb_wiz.qc",
+          "value": "1"
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAJfCo5pK1qtsKuet-iEZymoir98YYNtKl-IH0kXTz8Ox5SrFOSI4THIKXmz3uwWIY-WhsKI"
+        }
+      ]
+    }
+  ]
+}

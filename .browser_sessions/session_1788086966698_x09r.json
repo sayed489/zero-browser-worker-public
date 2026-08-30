@@ -1,0 +1,140 @@
+{
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803638989.707449,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEatx6r2fEba4lEG-QAxsroiEiYFeB2OmZqOIpkisp6MODIRd3EjX9BU",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803638989.7075,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=g1jv4jAoHNNM-ot2gpLfocFBgl2dkHehiefjAb8ykOqd56zh5DQFwk5w0-uZDGAoWwjh8BjYM9ANpGvD6JrafEFreOveuJ-PYvtAAuZ7WCHvBjXDws7-3puijcyTn45DP012Q0myE5GT6L4gyo0sokohsEHpEO9PBww2kcZ1F0VIgsS_hGwO_gYaOvoRhhsPPE0RlvR0IfaAs2j8lVXwugiOzSw-4qfAQm91IxClbGYWwUwTucSExS0HAhoB4EaF",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803898189.113405,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1980839756.1788087005",
+      "domain": ".ycombinator.com",
+      "path": "/",
+      "expires": 1822647005.217049,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1350960954.1788087005",
+      "domain": ".ycombinator.com",
+      "path": "/",
+      "expires": 1788173405,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_exists",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6ImRISjFaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJjb29raWUuX2JmX3Nlc3Npb25fZXhpc3RzIn19--c09bf3da17accf4c53e92f910eef613c6f99527b",
+      "domain": "www.ycombinator.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "KFCYADviupElpcI-qCvS1W0sPbMQlv8tW4MYRDkKPmGw64rxwwwNb7BOkqlMqxpeZk1xmN9gkvXw-W4lMgPr3w",
+      "domain": "www.ycombinator.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_key",
+      "value": "TJ5H6mPCfqgnGdCdeRM40QL4fSrmFJ%2F9yBG7ey0uu9%2BM7vyj73G%2Fga2b9fEMa7z5bbrxpp7tzi1A%2Fjgbme8%2FkJ3WNHAlLJ8T4jdbln6aca0CC86W2bDAfmFwHsHrO9%2BxK5Ac%2BOuIBWTYtGSg%2B69KdlJit4iX3mosLYenhFUtNJyw9rUQEa2ggxU4Aaw%2BPIoHJ5mzbx7ICHQEyA5KMAwnwkprovk8XEm3ZetsGNev9TTWgz8xPvQi%2BzPg3wmUdY9OVVTMHaUvDE4OLBMq78eGcTo0wjo00Z4%3D--pmMMJTt3RgIVTo8m--saWIirFylKcS8D3AGm1fsw%3D%3D",
+      "domain": "www.ycombinator.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a0524a-7513-7b6b-82bb-1756967a5611%22%2C%22distinct_id%22%3A%2201a0524a-7513-7b6b-82bb-1756967a5611%22%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".ycombinator.com",
+      "path": "/",
+      "expires": 1819624206,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_CHJJ1RJL5K",
+      "value": "GS2.2.s1788087006$o1$g0$t1788087006$j60$l0$h0",
+      "domain": ".ycombinator.com",
+      "path": "/",
+      "expires": 1822647006.728467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.ycombinator.com",
+      "localStorage": [
+        {
+          "name": "unleash:repository:sessionId",
+          "value": "\"785482071\""
+        },
+        {
+          "name": "unleash:repository:repo",
+          "value": "[]"
+        },
+        {
+          "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+          "value": "{\"$initialization_time\":\"2026-08-30T10:50:06.473Z\",\"$configured_session_timeout_ms\":1800000,\"distinct_id\":\"01a0524a-7513-7b6b-82bb-1756967a5611\",\"$device_id\":\"01a0524a-7513-7b6b-82bb-1756967a5611\",\"$user_state\":\"anonymous\",\"$autocapture_disabled_server_side\":false,\"$logs_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1788087006877,\"enabled\":true,\"canvasFps\":3,\"canvasQuality\":\"0.4\",\"consoleLogRecordingEnabled\":true,\"endpoint\":\"/s/\",\"eventTriggers\":[],\"linkedFlag\":null,\"masking\":null,\"minimumDurationMilliseconds\":null,\"networkPayloadCapture\":{\"capturePerformance\":false},\"recordCanvas\":true,\"recorderVersion\":\"v2\",\"sampleRate\":null,\"scriptConfig\":{\"script\":\"posthog-recorder\"},\"triggerGroups\":[{\"conditions\":{\"matchType\":\"all\",\"urls\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www\\\\.ycombinator\\\\.com(?!/avatars/kiosk).*$\"}]},\"id\":\"41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\",\"name\":\"Migrated trigger conditions\",\"sampleRate\":1}],\"triggerMatchType\":null,\"urlBlocklist\":[],\"urlTriggers\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"}],\"version\":2,\"canvasRecording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"}},\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$feature_flag_errors\":[],\"$active_feature_flags\":[\"landing_page_4\",\"landing_page_2\",\"waas-jobs-application-async\",\"landing_page_3\",\"landing_page\"],\"$enabled_feature_flags\":{\"landing_page_4\":true,\"landing_page_2\":\"control\",\"waas-jobs-application-async\":true,\"landing_page_3\":true,\"landing_page\":\"test\"},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{\"landing_page_4\":{\"key\":\"landing_page_4\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":2069,\"version\":1,\"description\":null,\"payload\":null,\"has_experiment\":false}},\"landing_page_2\":{\"key\":\"landing_page_2\",\"enabled\":true,\"variant\":\"control\",\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":2021,\"version\":1,\"description\":null,\"payload\":null,\"has_experiment\":true}},\"waas-jobs-application-async\":{\"key\":\"waas-jobs-application-async\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":177549,\"version\":4,\"description\":null,\"payload\":null,\"has_experiment\":false}},\"landing_page_3\":{\"key\":\"landing_page_3\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":2040,\"version\":1,\"description\":null,\"payload\":null,\"has_experiment\":false}},\"landing_page\":{\"key\":\"landing_page\",\"enabled\":true,\"variant\":\"test\",\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":1727,\"version\":1,\"description\":null,\"payload\":null,\"has_experiment\":true}}},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"25d0964f-ee57-404e-85e8-71c6bae525b2\",\"$feature_flag_evaluated_at\":1788088207010}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"rajasthan neet ug counselling result\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"cipla pharma\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"anne hathaway tom cruise movie\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"oneplus 16 leaks 165hz screen\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"trinbago knight riders jamaica kingsmen\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"nbems fmge exam\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"thaman campaign song payment dispute\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"mousetrap netflix review\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"24 carat gold rate august 29\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"poco x8 power\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}]],\"1\":{\"av\":\"5653926085401138503\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        },
+        {
+          "name": "rc::a",
+          "value": "YjZoaG85MzVsa2Nz"
+        },
+        {
+          "name": "sb_wiz.qc",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

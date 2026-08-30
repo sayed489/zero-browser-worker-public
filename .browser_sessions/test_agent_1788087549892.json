@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.1199291160.1788087558",
+      "domain": ".chromium.org",
+      "path": "/",
+      "expires": 1822647557.577543,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_24XP4PG02H",
+      "value": "GS2.1.s1788087557$o1$g0$t1788087557$j60$l0$h0",
+      "domain": ".chromium.org",
+      "path": "/",
+      "expires": 1822647557.61072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

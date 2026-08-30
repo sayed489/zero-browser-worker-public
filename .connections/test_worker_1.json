@@ -1,0 +1,107 @@
+{
+  "cookies": [
+    {
+      "name": "WMF-Last-Access",
+      "value": "29-Aug-2026",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": 1790801635.333897,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-Last-Access-Global",
+      "value": "29-Aug-2026",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": 1790801635.334311,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-DP",
+      "value": "d22",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": 1788080035.334512,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GeoIP",
+      "value": "IN:AP::16.50:80.65:v4",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NetworkProbeLimit",
+      "value": "0.001",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": 1788018819.334748,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "WMF-Uniq",
+      "value": "UQcWFx_5HnqRw_2-jxdNbwPLAAEBAFvddWbMtnZH8K9kYGd4mi0LalA1fuYrvINK",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": 1819571922.532695,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "WMF-Uniq",
+      "value": "nW4hwEntinkvikixfHs-oAPLAAEBAFvdK6G94vGgs7UXtu-BhwB1ma-cXyqechVo",
+      "domain": ".upload.wikimedia.org",
+      "path": "/",
+      "expires": 1819554954.14483,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "enwikimwuser-sessionId",
+      "value": "942ba81676c81cbe59c1",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://en.wikipedia.org",
+      "localStorage": [
+        {
+          "name": "ext-quicksurvey-Automatic-Translation-Feedback",
+          "value": "ee40e31d04512add50e1"
+        },
+        {
+          "name": "wmE-sessionTickLastTickTime",
+          "value": "1788015267050"
+        },
+        {
+          "name": "ext-quicksurvey-ReadingLists-beta-feature-survey",
+          "value": "589cc84079f77a4144d2"
+        },
+        {
+          "name": "wmE-sessionTickTickCount",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

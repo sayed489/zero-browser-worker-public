@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803638570.836463,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEauuaU2brA-d0R9VOjaIqsKaP7-VqMYXW2pIGvmwrqPgH-tZgTKT4Yg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803638570.836624,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=mLGtEJn0JZOuQfO6bpOc-TueHSmxS4DdqY-XfY8Hgo3tFllW3_IzXLx00NcjNmiPssqzI81BO2zNR_EN8y8cIyGFEBqcRdrh6qhbiXI8j7tQExHz5e7SnobSDF27By_OYzuqhWk7dAHreI0x3U7-KMM8FivOS3eVDi1sH_vqmN5HA1rSaXVvF_b2qZu6icksLdVSxtlf8LlbwggpUQsoN4Lsn4qq3R54bhI",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803897771.585238,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"indian overseas bank recruitment\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"noida super kings vs kanpur superstars\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"dc ott release date\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"gta6 gameplay\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"timpanogos rock glacier ice volume\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"mahindra thar\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"iran war\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"chelsea vs brighton prediction\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"yamaha r2m\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"jujutsu kaisen season 4 teaser\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"av\":\"248759887504034316\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        }
+      ]
+    }
+  ]
+}

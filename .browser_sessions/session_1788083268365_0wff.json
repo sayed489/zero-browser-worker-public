@@ -1,0 +1,53 @@
+{
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803635304.606182,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEav0IXRR3NxgYvNjx-Ewq1Zid2XdMpS_g4wJwm1TJFWaA8ki2G9_W9M",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803635304.606242,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=G_yyH-rDjDsrV0BuBlyvTZIJvcastE9ZiccsR815pD2-NypLUPRd47JyPREpb4pbdWGnIf3KJxD3gZKBTGJ4Bj5S2lSHaqg4VJexfEEFZ0cMCmxgmM7KUaaJ6yLaLybxPP-QNatZlEkKE6D1uylkg71nWRdK5pu7BK-hkrbzPesPfYG8d90CcLzGzUNVbJchWVVXGViYKKwguRYx3HGvYr4T3NyMeSsOkyHcxAJtAlj6LgJ8gMytOh9-wSVsgSIB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803894503.802789,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"fssai packaged food warning labels\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"mlc mirza rahmath baig\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"shaik rasheed\",46,[3,143,362],{\"zp\":{\"gs_ssp\":\"eJzj4tVP1zc0LMi2zDAxNysxYPTiLc5IzMxWKEoszkhNTQEAhtUJZA\"},\"zl\":8,\"zs\":\"data:image/jpeg;base64,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\",\"zf\":33,\"zh\":\"Shaik Rasheed\",\"zi\":\"Indian cricketer\",\"lm\":[]}],[\"parel cha raja 2026\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"red dead redemption 2 free epic games\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"liverpool football\",46,[3,143,362],{\"lm\":[],\"zi\":\"Football club\",\"zh\":\"Liverpool F.C.\",\"zf\":33,\"zs\":\"data:image/jpeg;base64,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\",\"zl\":8,\"zp\":{\"gs_ssp\":\"eJzj4tDP1TcwySlJM2D0EsrJLEstKsjPz1FIy88vSUrMyQEAk7cKZA\"}}],[\"sbi po prelims result date 2026\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"jackson hole kevin warsh\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"nothing os 5.0 open beta\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"marvel iron man game\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"av\":\"15941437199790916548\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        },
+        {
+          "name": "sb_wiz.qc",
+          "value": "1"
+        },
+        {
+          "name": "rc::a",
+          "value": "Z2NpZGhrMTkzaWp3bg=="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "cookies": [
+    {
+      "name": "GPS",
+      "value": "1",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1788086605.520343,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "mHD1nLdkM2M",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "iZhk-v0a5LA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1803636805.520589,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJJThIEGgAgUQ%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1803636805.520646,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "PREF",
+      "value": "tz=America.New_York",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1822644812.828937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "21.YT=kD4_yIuzPc-D-FfqU0HhASH6CyBWhUgy61XMBuywkxcTXvI_FrzRlefK9oXAYmvk5lAsF8u_42l5rNkACnz_49RPTg7Slb8YLkc-_UdJUybbye6H-vzrKnAUhs34963vykNU2Mq3xbrDToU-u2CzQKpK_uARunde47qm7RNB7D7b0YjiWoyxBupW6pDd3UkRbGRKt_Y0gM_vVWawwdMi89YztASOEf2RmlmlJHRutCtHsJkUrjVxKe8LqqRNMrgZzBf3hcOTRDxz-NbukYS3qg1DSH0fIwICpRW7mJYEoFHuU0zkA58h8CVEOaoyKQBDWayE-iID5Nk5dRcXJFpyow",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1803636805.558993,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CL-VtJqCyfSCywEQsI6w_Y7IlgMYidXfgI_IlgM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1803636812.559403,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "NID",
+      "value": "534=abi1zsPQBXVgH8xQ2xJ6WDAvtDQpPneg133H2nmqsaRUF-oKRvqYZT8tZkQlVyj2ahFC2fkqV1Q3XGvpNhvX1XJ3xFniotk7SE5YUFAhToFaEjK1Hjs8eSr7LVDrM8yuBY-wjawDUsYuZ3m-DVhz81z8j-Nopd7OCm0CKk9Ax45dGKvPEfeoaZf0TXK2_cNo5Bo00g0",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803896012.852003,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "534=AN2Xnihyd5BuhPViMLFLfz3Au9T21V4m4qu_I1ebxsK5HOIYHxpkrOaQmLpe7SUZYJ_Cw3YT03s2HTrjONIT2FCYSbmCrZcqF5qIaJiEIveKTeQ_6smRCn52_zfor5KW0ceaYL5z5NvkreqwYThDz_8gW2UFRo50sP85pab0bDq3WFJmFU99WbwLk7YbMNA_IR2uzfc",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1803896013.566656,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "V7e7fa19c||::yt-player::yt-player-lv",
+          "value": "{\"data\":\"{}\",\"creation\":1788084815597}"
+        },
+        {
+          "name": "yt-remote-connected-devices",
+          "value": "{\"data\":\"[]\",\"expiration\":1788171215130,\"creation\":1788084815130}"
+        },
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1790676834465,\"creation\":1788084834465}"
+        },
+        {
+          "name": "yt-player-caption-persistence",
+          "value": "{\"data\":\"true\",\"expiration\":4910148829619,\"creation\":1788084829619}"
+        },
+        {
+          "name": "yt-remote-device-id",
+          "value": "{\"data\":\"19690d7a-a09a-48f8-a357-42323324120f\",\"expiration\":1819620815112,\"creation\":1788084815112}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1781086411991"
+        }
+      ]
+    }
+  ]
+}

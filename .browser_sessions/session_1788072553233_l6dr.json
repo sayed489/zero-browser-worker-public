@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803624607.501832,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEasEfi7YWdls8J8KhD4XaBfNeK8My9_G4kGywXO7kRmyzy2VftAT-w",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803624607.508185,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=Z7_COzwThL1_A6o-ghsPmyadVSZVVTXSWHchISijt3eZHmaJO82226r9KHpLBlbbuE6o1cz50HyzVzCTkFHbVDg6vuhMV9flm8CzIy-NSQ86oRA0iQQHPhZAPqx0PrvOVNnvKjPll-_Ri18TNrNZXR_wqJusUVfhiPEpFaD2jOhFwumf9RusN6OZcYUjJWXqb4z3Fl6nMibjnLLzTBRBrMhyIocv_akO95U",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803883807.135723,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"igl cng price hike delhi\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"iim lucknow friends 34 years\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"simple mehndi designs\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"arsenal julian alvarez transfer news\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"timpanogos rock glacier ice volume\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"apple iphone 18 pro max\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"honda rebel 300\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"adhura ishq full drama\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"byd sealion 08 interior reveal\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"sri lanka vs india\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}]],\"1\":{\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}},\"av\":\"18195364424133153730\"}}"
+        }
+      ]
+    }
+  ]
+}

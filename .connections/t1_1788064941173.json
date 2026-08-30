@@ -1,0 +1,89 @@
+{
+  "cookies": [
+    {
+      "name": "WMF-Last-Access",
+      "value": "30-Aug-2026",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": 1790820834.608313,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-Last-Access-Global",
+      "value": "30-Aug-2026",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": 1790820834.608481,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GeoIP",
+      "value": "IN:AP::16.50:80.65:v4",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NetworkProbeLimit",
+      "value": "0.001",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": 1788068541.608643,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "WMF-Uniq",
+      "value": "eeXqOUTwQKXYsN_FuDp-uwPMAAEBAFvdS0zkg9VKKSrJqe_RgzxfApWw2OUuovpP",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": 1819625569.757072,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "enwikimwuser-sessionId",
+      "value": "5901d7a5edf100a27f4d",
+      "domain": "en.wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-Uniq",
+      "value": "chLOJy5ao5XqzzsUhaMUSwPMAAEBAFvd1w-IGKREJTVoQwb_U5ART4f3mmE5eyrA",
+      "domain": ".upload.wikimedia.org",
+      "path": "/",
+      "expires": 1819597447.35975,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://en.wikipedia.org",
+      "localStorage": [
+        {
+          "name": "wmE-sessionTickTickCount",
+          "value": "1"
+        },
+        {
+          "name": "wmE-sessionTickLastTickTime",
+          "value": "1788064942595"
+        }
+      ]
+    }
+  ]
+}

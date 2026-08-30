@@ -1,0 +1,66 @@
+{
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803626083.162675,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEavHyT7PU31wVtxl26Zk_QqIAiqcFb5i8sGn-hdbX8Niv4n6ea63Xw",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803626083.162779,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=EP6fylbo9DBMWbi4cG-OpHy4mnRdz6RZoheQvSl0QZ_oF5ydKfhSC5S5C0vbeHZyNQb5_sTKk6gvogHSxFGimXmyRk2DyP5opcvsbj90N20U_6yl4xJW_wYDHL_fZneslqIExy6vMze4uGehW4TU_AjVaGtgg_diE0ANp5ZsQblruJD3bMvBVKSsHARV07SL6Rwtg2jMuIkkNYcP1Un2Q4IOlVNd-Cps4myvbzBK4bWmRZa40lmUcQ2P2nTh2NbT",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803885282.992269,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://duckduckgo.com",
+      "localStorage": [
+        {
+          "name": "origin_conversions",
+          "value": "[\"search\"]"
+        },
+        {
+          "name": "serpPopoverPromo",
+          "value": "{\"impressionCount\":1}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"mousetrap netflix review\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"tomahawk phev mg hector tomahawk ev\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"ishaq dar indus waters treaty\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"pakistan cricket\",46,[3,143,362],{\"lm\":[],\"zf\":33,\"zl\":8,\"zs\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABJCAMAAACdFlHMAAAAZlBMVEX///+thh6ofgCnfACpgACshBeleQCuhyOrgw/8+vb//vzn3cikdwCwiyzr4tHHrnjk2cH38+zNt4izkDvXxaLz7uXSvpbx696/omK3lkjApGmzkDXby6zKsoGhcgC7m1G8nlnf0rdg/TkrAAADqUlEQVRYhcVY2ZKjMAz0JUaQQLivJEP4/59cGTMMVyamcNX2YzCNWrZachj7T7i4JswSt3zJNXdLmIvGLWEIsnDJV0muSpeEKXIIXRIicC4rd3wXyblTzTfkGs74AjXwycgVYW8IMXVF+AJuGB3x+Z7h48KRQ+RqJMSbG8JsVEzb4oSvEj98jjSnOBFi64KQz6D883yRnBGK+DzhDWeE8DrNF6i5ZC5Oa+6XhOpxlrCGBeFpzYngS8iT7TRXK8KzmjNYEcKZdhrobreGrPwfBBqbt6L2RmgbQnYnhF8EDgRUai14ODkTlAbqpcD1W1933lGKq1Aimp/NMy1sUogrzUrsfcS8gN7Yx1K5ztQUTXZrYcaAqqzy9cZPi5tpuIg47i5RQ+mWUyJFqwsl3P08yMU41W6zT/GUrIrpq/n4UPWMxTFr974+C88gxu0ysvxEeJ0/dilVsKS+PthzuxLUdtrz621uyKEjiXd20Y/wyWKBol/6zxjebv08xCY5ZKilurJCmnhjTzsiSV4sBPmueopmHSS+aA+uLBgaqQpYjerCGsB6FqR4/VHepTf/NgiQMcu/GTOEKfNBRCyk1jKVJMr+PR2h4r+nDpoqw45V30byMNxE3xHj9JVuJJSvj477nE657KoMgCXflDscDgEmrKzY3fMDIxnV3+EZxMqsVhedAGQJsrK8lfqwQKYdg45iPyRb1nbm6NdyEKxbPNxZUbM26i+xzoUwA5j/BbbhGTxINpk9mRedlShnDbkKmQIIvPosTku9ybI90q+SRkGn98KrWBkxEN21yTEcpux737KnQvvwDG5UIAFeyY9oJ+KEmUotAj9Fvy3x+JXgBTT1JzQEp56JpcqrIr1KiUC3NCW3Tv03EklbSi8FT8HFswT+kkpIs/0QdnC4Vz1oTwFaKjV93JAvqpdcnTJ8DEMlbPx/BnGsPyd7frvAjgH+hcduJ5pDF80BdO+1/uDQ1e+z4oNXv8+KSfPXAcJm2wv4puMcuPol3updkCk51qo3Hbj6rRWrUAeTdKsgwZqwWzW15/h7vhxZrK9Byz1W/DdXRTiP3frqN1esszfHYq7yLAlne2yyN8d8rhJ2JlvId+EZ3H6f11aE05wusv3qiuEnSDvLGRWD97a2prlK2NjsuMfvwjMY5yqrK8GgGOSH0h/nKptrkFYs7p+9aZirLGy2EJ/DM6jolFvYbK5EY2udT2lhs5ldeAYX/Li64If+yAzaT/82Hf6PsF/X5j+m3ytR5c2nUQAAAABJRU5ErkJggg==\",\"zp\":{\"gs_ssp\":\"eJzj4tTP1Tcwtog3qDJg9BIoSMzOLC5JzFNILspMzk4tAQB-0wlu\"},\"zh\":\"Pakistan national cricket team\",\"zi\":\"\"}],[\"oppo find x10 pro max cameras\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"blood moon total lunar eclipse tonight\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"instagram followers increase\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"mirza rahmath baig\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"indusind bank stock price gap\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"vivo t5 5g specifications\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"av\":\"17603037928838318527\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        },
+        {
+          "name": "rc::a",
+          "value": "MWJ0Nnlzcmc2M3gzaw=="
+        },
+        {
+          "name": "sb_wiz.qc",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

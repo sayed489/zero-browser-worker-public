@@ -1,0 +1,194 @@
+{
+  "cookies": [
+    {
+      "name": "__utma",
+      "value": "61317162.1819826861.1788079474.1788079474.1788079474.1",
+      "domain": ".workspace.google.com",
+      "path": "/intl/en-US/gmail/",
+      "expires": 1822639473.915722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmb",
+      "value": "61317162.0.10.1788079474",
+      "domain": ".workspace.google.com",
+      "path": "/intl/en-US/gmail/",
+      "expires": 1788081273,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmc",
+      "value": "61317162",
+      "domain": ".workspace.google.com",
+      "path": "/intl/en-US/gmail/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmz",
+      "value": "61317162.1788079474.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)",
+      "domain": ".workspace.google.com",
+      "path": "/intl/en-US/gmail/",
+      "expires": 1803847473,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APPS_MARKETING_SIGNALS",
+      "value": "source%3D%26lastExperiment%3D%26allExperiments%3D",
+      "domain": "workspace.google.com",
+      "path": "/intl/en-US/gmail",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803631460.785027,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEatimFYhr50KvYjb0KkGI2Dt_kE2Grvbux6jJKOuF4wWTBIBFl7tBw",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803631460.785074,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=N78wcySxH4ybJR6YQAh6yTlIm40Du1dqUmw8Gdp_jeUxMA-gmN5zG4ILAZHLYJ4wWLHlzgP5YlG5UjoPtUMnwPFa5Luf0hbpIMhLR-GEm17Xe_0BxN6UsE0IOQ8v5nNp4xV5imw5LQkmf9um-VS6JXX-5oZI10AEyK2eVBP3AKN4HCOxaf7UxJtm_Am-t8egwZQwtemLTVAfAPr0AJJayT1HS88L_ccLOg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803890660.54945,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:PI8Gjhofg70J1AxIUDNN33zaY03tQQ:gCZuQX3RjKUa7Qg2",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1822639471.470472,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.65862186.1788079474",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1795855474,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utma",
+      "value": "61317162.1819826861.1788079474.1788079474.1788079474.1",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1788083074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmc",
+      "value": "61317162",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1788083074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_FWCBRW1RY8",
+      "value": "GS2.1.s1788079474$o1$g0$t1788079474$j60$l0$h0",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1822639474.2483,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2118822472.1788079474",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1788083074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APPS_MARKETING_SIGNALS",
+      "value": "source=&lastExperiment=&allExperiments=",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1788083074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmb",
+      "value": "61317162.0.10.1788079474",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1788083074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmz",
+      "value": "61317162.1788079474.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not provided)",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1788083074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://workspace.google.com",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"IPoD6fE2QNHPuMXekugpFnCZGYwsrHdarw\",\"lastJoinedTimeMs\":1788079473768},\"expires\":1788079773768},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788079473776},\"expires\":1795855473776}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"video videos\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"oneplus 16 leaks 165hz screen\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"nbems fmge exam\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"mousetrap netflix review\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"24 carat gold rate august 29\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"trinbago knight riders jamaica kingsmen\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"oppo find x10 pro max\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"kerala lottery result karunya kr 766\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"dar e nijaat episode 9\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"sailesh gurung tcs microsoft transition\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"av\":\"5866066077540423254\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        }
+      ]
+    }
+  ]
+}

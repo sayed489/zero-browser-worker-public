@@ -1,0 +1,53 @@
+{
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI16EB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803635340.119787,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "value": "AdJVEavz7T0i0jnBBZQLjLm1piSi5dTdcm9kOW-_3k96S1xkTMBGY4H2Lbs",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803635340.11986,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "534=ZrqXOveiWlSYD35XwXuf2kPbnNQFseUdBCnrMfx11pRi6_2nBO0qpWGU1MJPS5FFJbRC47qirYQOmCtYkj3lhIM7a9Oo7j2v5sH1oyKze85OZldboc27n2i8RczfEgYcdofUtHxyOHQ0wNJUbpxgczksjWafwwZZ4tz9mzPIZlo0DNvQaChszPTM8OrsVcLJ490pZzQYIbbk9zyYoDFOHYzjh2cy46YsdBXg3LVx58E1U5ZhAIQoMkqqSA-ahZ8",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1803894539.832641,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"indian overseas bank recruitment\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"noida super kings vs kanpur superstars\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"dc ott release date\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}],[\"gta6 gameplay\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"timpanogos rock glacier ice volume\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"mahindra thar\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"iran war\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"chelsea vs brighton prediction\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zf\":33,\"zl\":8}],[\"jujutsu kaisen season 4 teaser\",0,[3,143,362],{\"zl\":8,\"zp\":{\"gs_ss\":\"1\"},\"zf\":33}],[\"apple iphone 18 pro max\",0,[3,143,362],{\"zf\":33,\"zp\":{\"gs_ss\":\"1\"},\"zl\":8}]],\"1\":{\"av\":\"10828504209969563115\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        },
+        {
+          "name": "rc::a",
+          "value": "czYwbGo3NDVrcGFt"
+        },
+        {
+          "name": "sb_wiz.qc",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

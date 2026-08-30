@@ -1,0 +1,18 @@
+# Railway — Browser Worker Service
+# Deploy the zero-browser-worker as a SEPARATE Railway service.
+# It runs Playwright with real Chromium to power the live browser automation.
+
+[build]
+builder = "nixpacks"
+buildCommand = "npm install && npx playwright install chromium --with-deps && npm run build"
+
+[deploy]
+startCommand = "npm start"
+healthcheckPath = "/health"
+healthcheckTimeout = 60
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
+
+[environment]
+NODE_ENV = "production"
+PORT = "3005"
