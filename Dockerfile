@@ -3,9 +3,9 @@ FROM mcr.microsoft.com/playwright:v1.50.0-noble
 
 WORKDIR /app
 
-# Install deps (better layer caching — deps before source)
+# Install deps
 COPY package*.json ./
-RUN npm ci
+RUN npm install
 
 # Copy source and build TypeScript
 COPY . .
