@@ -1,5 +1,5 @@
 export function connectPageHTML(): string {
-  const appUrl = process.env.APP_URL ?? 'http://localhost:3000';
+  const appUrl = process.env.APP_URL ?? 'https://www.zerolabs.live';
   const workerUrl = process.env.RENDER_EXTERNAL_URL ?? `http://localhost:${process.env.PORT ?? 3001}`;
   const token = process.env.WORKER_TOKEN ?? '';
   const connectHref = `${appUrl}/api/connect-worker?url=${encodeURIComponent(workerUrl)}&token=${encodeURIComponent(token)}`;
